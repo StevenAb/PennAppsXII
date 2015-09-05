@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>960CFA46-9993-4FEE-A9E2-78E6E5011AFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PennAppsXII</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D7F8449263388E2FDA912D01948EB3230E91048</key>
+		<string>https://github.com/StevenAb/PennAppsXII.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PennAppsXII.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D7F8449263388E2FDA912D01948EB3230E91048</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/StevenAb/PennAppsXII.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D7F8449263388E2FDA912D01948EB3230E91048</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D7F8449263388E2FDA912D01948EB3230E91048</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PennApps-XII</string>
+		</dict>
+	</array>
+</dict>
+</plist>
