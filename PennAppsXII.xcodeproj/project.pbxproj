@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		185A19441B9BA9740047D724 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185A19431B9BA9740047D724 /* MapViewController.swift */; };
+		185A19481B9BAD700047D724 /* AppLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185A19471B9BAD700047D724 /* AppLogic.swift */; };
 		18DE21871B9B73040039431B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DE21861B9B73040039431B /* AppDelegate.swift */; };
 		18DE218A1B9B73040039431B /* PennAppsXII.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18DE21881B9B73040039431B /* PennAppsXII.xcdatamodeld */; };
-		18DE218C1B9B73040039431B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DE218B1B9B73040039431B /* ViewController.swift */; };
 		18DE218F1B9B73040039431B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18DE218D1B9B73040039431B /* Main.storyboard */; };
 		18DE21911B9B73040039431B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18DE21901B9B73040039431B /* Images.xcassets */; };
 		18DE21941B9B73040039431B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18DE21921B9B73040039431B /* LaunchScreen.xib */; };
@@ -40,11 +41,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		185A19431B9BA9740047D724 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		185A19471B9BAD700047D724 /* AppLogic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppLogic.swift; sourceTree = "<group>"; };
 		18DE21811B9B73040039431B /* PennAppsXII.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PennAppsXII.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DE21851B9B73040039431B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18DE21861B9B73040039431B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18DE21891B9B73040039431B /* PennAppsXII.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PennAppsXII.xcdatamodel; sourceTree = "<group>"; };
-		18DE218B1B9B73040039431B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18DE218E1B9B73040039431B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18DE21901B9B73040039431B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		18DE21931B9B73040039431B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -141,8 +143,9 @@
 		18DE21831B9B73040039431B /* PennAppsXII */ = {
 			isa = PBXGroup;
 			children = (
+				185A19471B9BAD700047D724 /* AppLogic.swift */,
 				18DE21861B9B73040039431B /* AppDelegate.swift */,
-				18DE218B1B9B73040039431B /* ViewController.swift */,
+				185A19431B9BA9740047D724 /* MapViewController.swift */,
 				18DE218D1B9B73040039431B /* Main.storyboard */,
 				18DE21901B9B73040039431B /* Images.xcassets */,
 				18DE21921B9B73040039431B /* LaunchScreen.xib */,
@@ -339,10 +342,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18DE218C1B9B73040039431B /* ViewController.swift in Sources */,
+				185A19481B9BAD700047D724 /* AppLogic.swift in Sources */,
 				18DE21871B9B73040039431B /* AppDelegate.swift in Sources */,
 				18DE218A1B9B73040039431B /* PennAppsXII.xcdatamodeld in Sources */,
 				18DE21AB1B9B738D0039431B /* CustomObject.m in Sources */,
+				185A19441B9BA9740047D724 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

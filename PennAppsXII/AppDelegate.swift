@@ -9,15 +9,16 @@
 import UIKit
 import CoreData
 import Parse
+import CoreLocation
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
         
         Parse.setApplicationId("s33zNQRpVtSncG6tf6lrHH7DCbPaA0jfeEWeQ7Sd",
             clientKey: "nBYH19z6y6ayAP6xdwnXja8UA6txwGqvzS8Kbtv4")
